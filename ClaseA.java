@@ -1,6 +1,7 @@
 public class ClaseA{
   private string x;
   private int y;
+  private int z;
   
   public ClaseA(){
   x= "";
